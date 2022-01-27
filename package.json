@@ -1,0 +1,26 @@
+{
+  "name": "compound",
+  "version": "1.0.0",
+  "description": "Smartcontract to interact with Compound protocol",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiran017/compound.git"
+  },
+  "keywords": [],
+  "author": "skiran017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiran017/compound/issues"
+  },
+  "homepage": "https://github.com/skiran017/compound#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2"
+  }
+}
